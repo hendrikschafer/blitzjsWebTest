@@ -33,7 +33,7 @@ const Home = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          Documentation
+<!--           Documentation
         </a>
         <a
           className="button-outline"
@@ -50,11 +50,11 @@ const Home = () => (
           rel="noopener noreferrer"
         >
           Slack Community
-        </a>
+        </a> -->
       </div>
     </main>
 
-    <footer>
+<!--     <footer>
       <a
         href="https://blitzjs.com?utm_source=blitz-new&utm_medium=app-template&utm_campaign=blitz-new"
         target="_blank"
@@ -62,7 +62,7 @@ const Home = () => (
       >
         Powered by Blitz.js
       </a>
-    </footer>
+    </footer> -->
 
     <style jsx>{`
       .container {
